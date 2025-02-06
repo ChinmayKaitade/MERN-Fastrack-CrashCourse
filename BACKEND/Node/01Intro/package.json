@@ -1,0 +1,15 @@
+{
+  "name": "01intro",
+  "version": "1.0.0",
+  "description": "Intro File for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "npm"
+  ],
+  "author": "Chinmay Kaitade",
+  "license": "ISC"
+}
