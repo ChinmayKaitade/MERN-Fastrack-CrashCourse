@@ -41,8 +41,8 @@ Welcome to the **Node.js Practice Crash Course**, designed to help you master th
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/nodejs-crash-course.git
-   cd nodejs-crash-course
+   git clone https://github.com/ChinmayKaitade/MERN-Fastrack-CrashCourse/tree/main/BACKEND/
+   cd Node
    ```
 2. Installing the required dependencies:
    ```bash
