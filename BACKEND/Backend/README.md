@@ -2,13 +2,13 @@
 
 ### NodeJS | ExpressJS | Databases | MySQL | Prisma | Deployment
 
-1. #1: Node.js Tutorial in Hindi
-2. #2: Node.js History and Pre-requisites
-3. #3: Node.js Installation Package
+1. #1: Node.js Tutorial in Hindi: Introduction to NodeJS
+2. #2: Node.js History and Pre-requisites of NodeJS
+3. #3: Node.js Installation Package Manager vs Prebuilt Installer
 4. #4: Node.js REPL Life Cycle Explained
 5. #5: Node.js
-6. #6: Node.js Secrets Why There's No Wi
-7. #7: Node.js Modules: How to
+6. #6: Node.js Secrets Why There's No Window or Document in Server-Side World
+7. #7: Node.js Modules: How to Export and Require Files
 8. #8: Named & Aggregate Exports
 9. #9: Node.js Path
 10. #10: Node.js OS Module
