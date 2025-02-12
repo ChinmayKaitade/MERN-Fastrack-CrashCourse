@@ -8,33 +8,32 @@
 4. #4: Node.js REPL Life Cycle Explained
 5. #5: Node.js
 6. #6: Node.js Secrets Why There's No Window or Document in Server-Side World
-7. #7: Node.js Modules: How to Export and Require Files
-8. #8: Named & Aggregate Exports
-9. #9: Node.js Path
-10. #10: Node.js OS Module
+7. #7: Node.js Modules: How to Export and Require Files in NodeJS
+8. #8: Named & Aggregate Exports in NodeJS
+9. #9: Node.js Path Module Learn Constants Join Methods and Useful Functions
+10. #10: OS Module in NodeJS Methods and Properties
 11. #11:
-12. #12: Node.js FS Module: Complete Guide to
-13. #13: Node.js FS Module(Async): Complete
-14. #14: Node.js FS Module with Promises: Write
-    <!-- 08. #08: Node.js FS Module with Async/Await: -->
-15. #15:
-16. #16: Node.js Event Emitters: Practical
-17. #17: Node.js Challenge #1: Real-World Pro
-18. #18: Creating a Web Server in Node.js
-19. #19: What is package.json
-20. #20: Restart Your Node.js App Without
-21. #21: ESModule in Node.js: Default
-22. #22: NPM in Node.js: Install Packages,
-23. #23: Node.js Versioning Explained: Symbols
-24. #24: NPM Commands: Install, Update, and
-25. #25: Global NPM Packages Explained
-26. #26: How Node.js Works behind the Scene
-27. #27: How Node.js Works: V8 Engine, Event Loops
-28. #28: Node.js Project #1: Build CLI Todo App
-29. #29: Node.js Project #2: Create a CLI File Cr
-30. #30: Node.js Project #3: Create a Random Joke Generator App
-31. #31: Node.js Project #4: Build a Real Time Cu
-32. #32: Node.js Project #4: Build a Weather App
+12. #12: Node.js FS Module: Complete Guide to CRUD Operations, File Renaming Sync
+13. #13: Node.js FS Module(Async): Complete Guide to CRUD Operations, File Renaming Sync
+14. #14: Node.js FS Module with Promises: Write, Read, Update and Delete
+15. #15: Node.js FS Module with Async/Await: File CRUD Operations!
+16. #16: Node.js Event Emitters: Practical Examples & Argument Handling
+17. #17: Node.js Challenge #1: Real-World Problem & Solution
+18. #18: Creating a Web Server in Node.js HTTP Module in NodeJS
+19. #19: What is package.json? Learn How to Auto Restart Your Node.js App with Nodemon
+20. #20: Restart Your Node.js App Without Nodemon: The Inbuilt Solution
+21. #21: ESModule in Node.js: Default Named, and Aliased Imports
+22. #22: NPM in Node.js: Install Packages, Commands and Versions!
+23. #23: Node.js Versioning Explained: Symbols Systematic Versions, and NPM Commands
+24. #24: NPM Commands: Install, Update, and Manage NodeJS Packages
+25. #25: Global NPM Packages: Manage, Update, and Remove Easily!
+26. #26: How Node.js Works behind the Scene with Live Practical Examples!
+27. #27: How Node.js Works: V8 Engine, Event Loops, and Worker Threads
+28. #28: Node.js Project #1: Build CLI Todo App using NodeJS
+29. #29: Node.js Project #2: Create a CLI File Creation App using NodeJS
+30. #30: Node.js Project #3: Create a Random Joke Generator App in NodeJS
+31. #31: Node.js Project #4: Build a Real Time Currency Converter App in NodeJS
+32. #32: Node.js Project #4: Build a Weather App in Node.js | Fetch Real-Time Weather Data using APIs
 33. Build a URL Shortener with HT
 34. Serving HTML & CSS File in Node.js
 35. URL Shortener Project in Node.js ()
