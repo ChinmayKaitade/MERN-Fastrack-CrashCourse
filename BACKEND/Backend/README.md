@@ -33,40 +33,40 @@
 29. #29: Node.js Project #2: Create a CLI File Creation App using NodeJS
 30. #30: Node.js Project #3: Create a Random Joke Generator App in NodeJS
 31. #31: Node.js Project #4: Build a Real Time Currency Converter App in NodeJS
-32. #32: Node.js Project #4: Build a Weather App in Node.js | Fetch Real-Time Weather Data using APIs
-33. Build a URL Shortener with HT
-34. Serving HTML & CSS File in Node.js
-35. URL Shortener Project in Node.js ()
-36. Show Links in HTML by Fetching
-37. Final Video Build URL Shortener with
-38. How the Web Really Works! DNS,
-39. Express JS Tutorial for Beginners in Hindi
-40. Environment Variables in Node.js
-41. Fix Port Number Issues in Node.js
-42. Validate Environment Variable
+32. #32: Node.js Project #5: Build a Weather App in Node.js | Fetch Real-Time Weather Data using APIs 
+33. Build a URL Shortener with HTML, CSS & Node.js (Part-1)
+34. Serving HTML & CSS File in Node.js (Part-2)
+35. URL Shortener Project in Node.js (Part-3) | Handling Form Submissions in NodeJS
+36. Show Links in HTML by Fetching Data from Node.js | Real-time URL Display with JSON
+37. Final Video Build URL Shortener with Node.js | Truncate Text & Redirect Logic Explained
+38. How the Web Really Works! DNS, HTTP & HTTPS
+39. Express JS Tutorial for Beginners | Build Your First Express JS Server from Scratch
+40. Environment Variables in Node.js & Express Setup .env Files and Best Practices
+41. Fix Port Number Issues in Node.js | Check, Release, and Set Ports using .env
+42. Validate Environment Variable in ExpressJS using Zod
 43. Host your Node.js App for FREE
-44. How to send Files in Express JS
-45. Serve HTML CSS & JavaScript
-46. ES Modules in Node.js - Caveats
-47. Route Parameters in Express.js | Dynamic
-48. Query Parameters in Express | Real
-49. How to Handle Form Submission
-50. How to Handle a 404 Error Page
-51. Express.js Project URL Shortener: Ste
-52. Express Router Separating routes
-53. EJS Template Engine in Express.js
-54. EJS Partials in Express: Reusable
-55. Controllers in Express.js: Simplify
-56. Upgrade Your URL: Shortener Project
-57. Streams and Buffers in Node.js
-58. Databases Introduction for Full
-59. MongoDB & Express.js CRUD O
-60. Adding MongoDB to our Express URL
-61. Mongoose with Express: Easy
-62. Mongoose Middleware Explain
-63. MongoDB Mongoose Challenge
-64. MySQL in Hindi (2025)
-65. MySQL in One Video Using W
+44. How to send Files in Express JS | Fix `__dirname` Not working in ExpressJS
+45. Serve HTML CSS & JavaScript in ExpressJS | express.static Explained
+46. ES Modules in Node.js - Caveats, `__dirname` & `__filename` Fixes | Top-Level Await Explained
+47. Route Parameters in Express.js | Dynamic Routes, URL Params & Handling Spaces
+48. Query Parameters in Express | Real Examples & Practical Demo
+49. How to Handle Form Submission in Express | GET & POST Methods Explained
+50. How to Handle a 404 Error Page in ExpressJS
+51. Express.js Project URL Shortener: Step-by-Step Guide for Beginners
+52. Express Router Separating routes in Separate modules
+53. EJS Template Engine in Express.js | Dynamic Content Made Easy
+54. EJS Partials in Express: Reusable Components Like ReactJS
+55. Controllers in Express.js: Simplify Your URL Shortener Project
+56. Upgrade Your URL Shortener Project: Add Dynamic Content with EJS in ExpressJS
+57. Streams and Buffers in Node.js | Simple File Copy Example with Events
+58. Databases Introduction for Full-Stack Developers
+59. MongoDB & Express.js CRUD Operations Tutorial
+60. Adding MongoDB to our Express URL Shortener Project
+61. Mongoose with Express: Easy Setup, Schema, Model, and Data Insertion Explained
+62. Mongoose Middleware Explain with Real Examples
+63. MongoDB Mongoose Challenge: Solve it Step-by-Step!
+64. MySQL in Hindi (2025) | Complete Installation & Setup Guide for Beginners
+65. MySQL in One Video Using Workbench in Hindi
 66. MySQL + Node.js CrashCourse Co
 67. Build a Project using Node.js Express
 68. Prisma ORM in One Video Setup
