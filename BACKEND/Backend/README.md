@@ -33,7 +33,7 @@
 29. #29: Node.js Project #2: Create a CLI File Creation App using NodeJS
 30. #30: Node.js Project #3: Create a Random Joke Generator App in NodeJS
 31. #31: Node.js Project #4: Build a Real Time Currency Converter App in NodeJS
-32. #32: Node.js Project #5: Build a Weather App in Node.js | Fetch Real-Time Weather Data using APIs 
+32. #32: Node.js Project #5: Build a Weather App in Node.js | Fetch Real-Time Weather Data using APIs
 33. Build a URL Shortener with HTML, CSS & Node.js (Part-1)
 34. Serving HTML & CSS File in Node.js (Part-2)
 35. URL Shortener Project in Node.js (Part-3) | Handling Form Submissions in NodeJS
