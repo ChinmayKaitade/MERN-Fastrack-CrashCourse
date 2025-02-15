@@ -1,0 +1,20 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Basic Node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "npm",
+    "Node"
+  ],
+  "author": "Chinmay Kaitade",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "express": "^4.21.2"
+  }
+}
