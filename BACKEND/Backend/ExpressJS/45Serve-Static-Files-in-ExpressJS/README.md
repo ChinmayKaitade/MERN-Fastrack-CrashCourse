@@ -1,4 +1,4 @@
-# Serve HTML CSS & JavaScript in ExpressJS | express.static Explained
+# Serve HTML CSS & JavaScript in ExpressJS | express.static Explained 🚀❤️‍🔥
 
 - Static files as name mentions are files which don't change, these can be assets like images, css, html, font, etc.
 - Express has middleware named `express.static("public")` which we can use to serve static files.
