@@ -1,0 +1,22 @@
+{
+  "name": "express-app",
+  "version": "1.0.0",
+  "description": "Basic Express Application",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "express"
+  ],
+  "author": "Chinmay Kaitade",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.0.1"
+  }
+}
