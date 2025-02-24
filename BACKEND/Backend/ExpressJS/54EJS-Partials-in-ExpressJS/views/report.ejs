@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div id="container">
+      <%- include("header") %>
+
+      <section class="report-section">
+        <h1>Student Report Card</h1>
+
+        <ul class="stud-container">
+          <% student.map((stud) => { %>
+          <li class="stud-list">
+            <p>Name: <%= stud.name %></p>
+            <p>Grade: <%= stud.grade %></p>
+            <p>Favorite Subject: <%= stud.favoriteSubject %></p>
+          </li>
+          <% }) %>
+        </ul>
+      </section>
+    </div>
+  </body>
+</html>
