@@ -1,0 +1,58 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gilroy";
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+nav {
+  height: 4.5rem;
+  background-color: #313131;
+}
+
+.navbar-links {
+  height: 4.5rem;
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+  font-size: 21px;
+  display: flex;
+  gap: 2rem;
+}
+
+li > a {
+  color: #f1f1f1;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.4rem;
+  margin-top: 2rem;
+  /* background-color: red; */
+  padding: 12px;
+}
+
+.stud-container {
+  /* background-color: red; */
+  padding: 2rem;
+  margin-top: 4rem;
+  display: flex;
+  list-style: none;
+  gap: 3rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.stud-list {
+  font-size: 1.1rem;
+  padding: 1rem;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
